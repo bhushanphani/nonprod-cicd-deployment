@@ -11,9 +11,9 @@
 	<name>nonprod-cicd-deployment</name>
 	
 	<parent>
-		<groupId>com.bhushan</groupId>
-		<artifactId>parent-pom</artifactId>
-	    <version>1.0.0-SNAPSHOT</version>
+		<groupId>com.hertz.mule4</groupId>
+		<artifactId>lib-parent-pom</artifactId>
+		<version>1.0.1</version>
 	</parent>
 
     <properties>
