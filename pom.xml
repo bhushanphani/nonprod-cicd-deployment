@@ -10,6 +10,7 @@
 
 	<name>nonprod-cicd-deployment</name>
 	
+	<!--using hertz parent pom-->
 	<parent>
 		<groupId>com.hertz.mule4</groupId>
 		<artifactId>lib-parent-pom</artifactId>
